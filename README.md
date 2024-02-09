@@ -1,6 +1,6 @@
 # Diego Oliveira
 
-<div>
+<div style="margin-bottom: 10px">
   <a href="https://github.com/diegocgcfad/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=diegocgcfad&theme=merko" />
   </a>
